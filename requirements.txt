@@ -48,7 +48,7 @@ dask==2.5.2
 decorator==4.4.0
 defusedxml==0.6.0
 distributed==2.5.2
-Django==3.0
+Django==3.0.14
 django-cors-headers==1.2.0
 djangorestframework==3.11.0
 docker==3.7.3
